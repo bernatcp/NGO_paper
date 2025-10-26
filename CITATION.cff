@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset or code, please cite this repository as follows."
-title: "Predicting NGO–Country Relationships Using LSTM Models"
+title: "The logic behind NGOs' aid allocation: a complex choice based on past decisions."
 authors:
   - family-names: YourLastName
     given-names: YourFirstName
@@ -9,4 +9,4 @@ version: 1.0.0
 doi: 10.5281/zenodo.xxxxxx
 date-released: 2025-10-26
 license: MIT
-repository-code: https://github.com/YourUsername/your-repo-name
+repository-code: "https://github.com/bernatcp/NGO_paper"
