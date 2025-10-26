@@ -1,7 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this dataset or code, please cite this repository as follows."
 Authors:
-
+  - family-names: "Orué Guerrero"
+    given-names: "Noemi"
+    affiliation: "Universitat de Barcelona"
+  - family-names: "Muñoz Marquez"
+    given-names: "Luz"
+    affiliation: "Universitat de Barcelona"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Coma Puig"
+    given-names: "Bernat"
+    affiliation: "EU Business School"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "The logic behind NGOs' aid allocation: a complex choice based on past decisions."
 version: 1.0.0
 doi: 10.5281/zenodo.xxxxxx
