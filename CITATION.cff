@@ -1,10 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this dataset or code, please cite this repository as follows."
 title: "The logic behind NGOs' aid allocation: a complex choice based on past decisions."
-authors:
-  - family-names: YourLastName
-    given-names: YourFirstName
-    affiliation: YourInstitution
+uthors:
+  - family-names: "Orué Guerrero"
+    given-names: "Noemi"
+    affiliation: "Universitat de Barcelona"
+  - family-names: "Muñoz Marquez"
+    given-names: "Luz"
+    affiliation: "Universitat de Barcelona"
+  - family-names: "Coma-Puig"
+    given-names: "Bernat"
+    affiliation: "EU Business School"
 version: 1.0.0
 doi: 10.5281/zenodo.xxxxxx
 date-released: 2025-10-26
